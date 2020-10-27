@@ -6,7 +6,7 @@
 
 <script>
 import HelloWorld from "./components/HelloWorld.vue";
-import Footer from "package-practice";
+import Footer from "svelte-to-x";
 
 export default {
   name: "App",

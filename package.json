@@ -10,6 +10,8 @@
     "dev": "rollup -c -w",
     "install:vue": "npm --prefix ./examples/vue install ./examples/vue",
     "dev:vue": "npm run --prefix ./examples/vue dev",
+    "install:react": "npm --prefix ./examples/react/ install ./examples/react/",
+    "dev:react": "npm start --prefix ./examples/react/",
     "install:svelte": "npm --prefix ./examples/svelte install ./examples/svelte",
     "dev:svelte": "npm run --prefix ./examples/svelte dev"
   },
